@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="TestSuite" time="0.635" tests="13" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="23"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.class.path" value="C:\Users\artem\IdeaProjects\LABA4\target\test-classes;C:\Users\artem\IdeaProjects\LABA4\target\classes;C:\Users\artem\.m2\repository\org\testng\testng\7.11.0\testng-7.11.0.jar;C:\Users\artem\.m2\repository\org\slf4j\slf4j-api\2.0.16\slf4j-api-2.0.16.jar;C:\Users\artem\.m2\repository\org\jcommander\jcommander\1.83\jcommander-1.83.jar;C:\Users\artem\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Yekaterinburg"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="23"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="RU"/>
+    <property name="sun.boot.library.path" value="C:\Users\artem\.jdks\openjdk-23\bin"/>
+    <property name="sun.java.command" value="C:\Users\artem\AppData\Local\Temp\surefire17928016867337061385\surefirebooter-20251111022906967_3.jar C:\Users\artem\AppData\Local\Temp\surefire17928016867337061385 2025-11-11T02-29-03_707-jvmRun1 surefire-20251111022906967_1tmp surefire_0-20251111022906967_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\artem\IdeaProjects\LABA4\target\test-classes;C:\Users\artem\IdeaProjects\LABA4\target\classes;C:\Users\artem\.m2\repository\org\testng\testng\7.11.0\testng-7.11.0.jar;C:\Users\artem\.m2\repository\org\slf4j\slf4j-api\2.0.16\slf4j-api-2.0.16.jar;C:\Users\artem\.m2\repository\org\jcommander\jcommander\1.83\jcommander-1.83.jar;C:\Users\artem\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\artem"/>
+    <property name="user.language" value="ru"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-09-17"/>
+    <property name="java.home" value="C:\Users\artem\.jdks\openjdk-23"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\artem\IdeaProjects\LABA4"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\artem\AppData\Local\Temp\surefire17928016867337061385\surefirebooter-20251111022906967_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="23+37-2369"/>
+    <property name="user.name" value="artem"/>
+    <property name="stdout.encoding" value="Cp1251"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\artem\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\artem\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2024.2.2"/>
+    <property name="java.version" value="23"/>
+    <property name="user.dir" value="C:\Users\artem\IdeaProjects\LABA4"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1251"/>
+    <property name="java.library.path" value="C:\Users\artem\.jdks\openjdk-23\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Users\artem\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\artem\AppData\Local\Programs\Python\Python313\;C:\Users\artem\AppData\Local\Programs\Python\Launcher\;C:\Users\artem\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.2.2\bin;;C:\Users\artem\AppData\Local\Programs\Python\Python312\Scripts\;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1251"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="23+37-2369"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="67.0"/>
+  </properties>
+  <testcase name="testFindMaxException" classname="MyArrayUtilsTest" time="0.002">
+    <system-out><![CDATA[Инициализация MyArrayUtils
+]]></system-out>
+    <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+]]></system-err>
+  </testcase>
+  <testcase name="testFindMaxPositive" classname="MyArrayUtilsTest" time="0.0"/>
+  <testcase name="testFindMaxWithNegatives" classname="MyArrayUtilsTest" time="0.0"/>
+  <testcase name="testGetAverageException" classname="MyArrayUtilsTest" time="0.0"/>
+  <testcase name="testIsSortedFalse" classname="MyArrayUtilsTest" time="0.001"/>
+  <testcase name="testIsSortedTrue" classname="MyArrayUtilsTest" time="0.0"/>
+  <testcase name="testReverse[[I@2d1ef81a, [I@4c402120](1)" classname="MyArrayUtilsTest" time="0.004"/>
+  <testcase name="testReverse[[I@5542c4ed, [I@1573f9fc](2)" classname="MyArrayUtilsTest" time="0.0"/>
+  <testcase name="testReverse[[I@44c03695, [I@7e6f74c](3)" classname="MyArrayUtilsTest" time="0.002"/>
+  <testcase name="testReverse[[I@6a78afa0, [I@2f4948e4](4)" classname="MyArrayUtilsTest" time="0.0"/>
+  <testcase name="testSum" classname="MyArrayUtilsTest" time="0.0"/>
+  <testcase name="testSumEmpty" classname="MyArrayUtilsTest" time="0.0"/>
+  <testcase name="testSum" classname="org.example.MainTest" time="0.001"/>
+</testsuite>

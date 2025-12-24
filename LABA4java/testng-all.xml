@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="ExceptionTestSuite">
+    <test name="ExceptionTests">
+        <groups>
+            <run>
+                <include name="exception" /> </run>
+        </groups>
+        <classes>
+            <class name="org.example.MyArrayUtilsTest" />
+        </classes>
+    </test>
+</suite>

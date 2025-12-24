@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="LogicSuite">
+    <test name="OnlyLogic">
+        <groups>
+            <run>
+                <include name="logic"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="org.example.TextAnalyzerTest"/>
+        </classes>
+    </test>
+</suite>
